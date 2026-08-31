@@ -35,7 +35,7 @@ if (typeof window !== "undefined" && !window.storage) {
    Zero stored data renders as zero — no fabricated activity.
    ============================================================ */
 
-const PREP_START_DATE = "2026-08-25";
+const PREP_START_DATE = "2026-09-01";
 
 /* ------------------------------------------------------------
    TYPE SHAPES (documented — this is a plain-JS artifact, so
